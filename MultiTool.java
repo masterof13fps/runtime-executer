@@ -1,4 +1,4 @@
-package de.masterof13fps.forum;
+package yourpackage;
 
 import java.awt.EventQueue;
 import java.awt.Font;
@@ -40,10 +40,6 @@ public class MultiTool extends JFrame {
 			}
 		});
 	}
-
-	/**
-	 * Create the frame.
-	 */
 	public MultiTool() {
 		
 		setForeground(Color.CYAN);
